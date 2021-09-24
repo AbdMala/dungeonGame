@@ -1,0 +1,27 @@
+{
+  "recipe": {
+    "recipeType": "weapon",
+    "weapon": {
+      "name": "long sword of strength",
+      "level": 1,
+      "damage": 6,
+      "range": 2,
+      "effect": "strength"
+    },
+    "steel": 1,
+    "wood": 0,
+    "leather": 0,
+    "beetleshell": 0,
+    "herbs": 0,
+    "ruby": 0,
+    "amethyst": 0,
+    "emerald": 0,
+    "diamond": 0
+  },
+  "objectType": "recipe",
+  "position": {
+    "x": 6,
+    "y": -21,
+    "z": 15
+  }
+}

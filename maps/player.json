@@ -1,0 +1,44 @@
+{
+  "recipe": {
+    "recipeType": "weapon",
+    "weapon": {
+      "name": "long sword of strength",
+      "level": 1,
+      "damage": 6,
+      "range": 2,
+      "effect": "strength"
+    },
+    "steel": 1,
+    "wood": 0,
+    "leather": 0,
+    "beetleshell": 0,
+    "herbs": 0,
+    "ruby": 0,
+    "amethyst": 0,
+    "emerald": 0,
+    "diamond": 0
+  },
+  "objectType": "player",
+  "player": {
+    "agility": 1,
+    "armor": {
+      "level": 1,
+      "name": "Shield",
+      "armor": 1
+    },
+    "currentHealth": 10,
+    "experience": 0,
+    "luck": 3,
+    "name": "Player",
+    "skillPoints": 0,
+    "strength": 1,
+    "vitality": 1,
+    "weapon": {
+      "level": 1,
+      "name": "Sword",
+      "range": 1,
+      "damage": 4
+    }
+  }
+}
+
